@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Lime idle"
+		},
+		{
+			"offsets": [
+				80,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Lime left"
+		},
+		{
+			"offsets": [
+				-15,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Lime down"
+		},
+		{
+			"offsets": [
+				55,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Lime up"
+		},
+		{
+			"offsets": [
+				-10,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Lime right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Lime",
+	"position": [
+		160,
+		200
+	],
+	"healthicon": "lime",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		240,
+		56
+	],
+	"camera_position": [
+		300,
+		50
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}
