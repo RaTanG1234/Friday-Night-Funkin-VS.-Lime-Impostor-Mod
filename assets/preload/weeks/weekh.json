@@ -1,0 +1,32 @@
+{
+	"storyName": "lol",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"defeat-him",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"defeat-hemix",
+			"defeat-him",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "him",
+	"hiddenUntilUnlocked": false
+}
